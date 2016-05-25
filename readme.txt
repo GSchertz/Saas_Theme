@@ -1,3 +1,4 @@
+
 === sass_theme ===
 
 Contributors: automattic
@@ -36,3 +37,6 @@ sass_theme includes support for Infinite Scroll in Jetpack.
 
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+=======
+This is a Sass based Wordpress theme.
+>>>>>>> 4454f5a0b341f2486cdd1081b96364e0a18e916d
