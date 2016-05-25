@@ -1,0 +1,1 @@
+This is a Sass based Wordpress theme.
